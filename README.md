@@ -9,7 +9,7 @@ Send.h > send, relay_send function prototype define
 
 Util.h > find_dev, set_inf_pack, ip_input,  arp_tabe_update function prototype define
 
-Lookup.h > lookup, packet_handler function prototype define
+// Lookup.h > lookup, packet_handler function prototype define
 
 Struct.h > user structer, constant value define
 
